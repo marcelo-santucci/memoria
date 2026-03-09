@@ -1,7 +1,8 @@
 # Memoria
 
-Programas para demostrar temas relativos con uso de memoria, su asignación, acceso, etc.
+## Distribucion y Posiciones de Memoria
 
-Listado de programas
+Demostrar la asignación de memoria y acceso.
 
-+ Controladores de caracteres: Interactúan con dispositivos que leen y escriben datos en un flujo de caracteres.
++ revisa_asignacion.c
+    Verificar la manera en que el sistema operativo asigna la memoria, no obstante, el compilador establece posiciones de memoria para uso de programas.
